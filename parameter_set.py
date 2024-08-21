@@ -1,3 +1,4 @@
+## The example demonstrates  the forward and inverse problem for the logistic growth function ####
 import random
 import numpy as np
 import pandas as pd
