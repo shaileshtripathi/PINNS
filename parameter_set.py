@@ -105,19 +105,9 @@ else:
 dde.saveplot(losshistory, train_state, issave=True, isplot=True)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+######################### If S=True ###################################################################################
+######################## The plots show the parameters K and r at different iterations during the PINNs training ####
+#######################################################################################################################
 import re
 from plotnine import ggplot, aes, geom_line, geom_point, labs, theme_minimal, ggsave
 
