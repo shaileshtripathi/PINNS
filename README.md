@@ -1,1 +1,1 @@
-In these examples we provide PINNs for solving ordinary differintial equations using DeepXde package.
+In these examples, we demonstrate how Physics-Informed Neural Networks (PINNs) can be applied to solve ordinary differential equations (ODEs) using the DeepXDE package. The DeepXDE package provides a framework for implementing PINNs, offering functionalities  for solving partial differential equation. Solving ODEs showcases the effectiveness of PINNs in capturing complex dynamics with  fewer data points as compared to traditional machine learning approaches.
